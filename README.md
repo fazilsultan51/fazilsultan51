@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @fazilsultan51
 - 👀 I’m Javascript Developer
-- 🌱 I’m currently working on React js,Next js and React native
+- 🌱 I’m currently working on React js,Next js , React native, Nodejs and Express
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
        Email: fazilsultan51@gmail.com
